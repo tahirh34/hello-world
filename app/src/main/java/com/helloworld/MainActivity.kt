@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.e("Test", "This is test commit on develop and Master both")
+        Log.e("Test", "Test merge develop to master branch and finish develop branch")
     }
 }
